@@ -2,7 +2,7 @@ package recursion
 
 func Example_recursion() {
 
-	Countdown(3)
+	PowersOf5(5)
 	// Output:
 	// 3
 	// 2
